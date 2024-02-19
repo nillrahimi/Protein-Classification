@@ -1,0 +1,8 @@
+jupyter
+pandas
+matplotlib
+scikit-learn
+seaborn
+biopython
+torch
+openpyxl
